@@ -28,11 +28,11 @@ Python 3.8 or higher
 
 
 
-requests library for API calls
+- requests library for API calls
 
 
 
-google-generativeai library for AI integration
+- google-generativeai library for AI integration
 
 
 
@@ -40,7 +40,7 @@ You can install the necessary Python packages using pip:
 
 
 
-pip install streamlit pandas requests google-generativeai
+- pip install streamlit pandas requests google-generativeai
 
 
 
