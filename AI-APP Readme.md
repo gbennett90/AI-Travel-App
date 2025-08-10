@@ -58,7 +58,7 @@ Run the Streamlit app with the following command:
 
 
 
-streamlit run app.py
+```streamlit run app.py```
 
 
 
