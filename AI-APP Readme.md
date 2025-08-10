@@ -68,7 +68,7 @@ The application will open automatically in your web browser.
 
 Link to Live App
 
-\[Insert Link]
+[https://ai-travel-app-tlpgpj6qjtcdzpqb5gmafz.streamlit.app/]
 
 
 
